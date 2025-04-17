@@ -8,14 +8,32 @@ I hope to compile all the neccessary information you would need to pass CKA.
 
 ###### CKA: 
 1. The test consists of around 17 questions, out of which a majority are similar to well known study guides and resources.
-2. The two FREE killercoda mock exams given along with CKA registration are harder than the real exam, but do note the main difficulty with killercoda i faced was finishing on time, it was almost impossible for me to finish all the questions on time. While the complexity level of the questions are similar to CKA.
-3. Another challenge and what makes killercoda important to attempt is to get used to the interface especially if you aren't a linux user. The interface does tend to lag and it only occupies a section of a monitor, so it makes your workspace really small especially if your display is less than 13 inches. SO ensure to get familar with it cause you cannot waste time on it during your main exam.
-4. Finally, the goal should not be to just pass the test but to gain practical experience with kubernetes.
+2. The two FREE killershell mock exams given along with CKA registration are harder than the real exam, but do note the main difficulty with killershell i faced was finishing on time, it was almost impossible for me to finish all the questions on time. While the complexity level of the questions are similar to CKA.
+3. Another challenge and what makes killershell important to attempt is to get used to the interface especially if you aren't a linux user. The interface does tend to lag and it only occupies a section of a monitor, so it makes your workspace really small especially if your display is less than 13 inches. SO ensure to get familar with it cause you cannot waste time on it during your main exam.
+4. For each question you will find links related to the question attached, many times you would navigate away from them to find the yaml file you need. This is also where practice comes into play, you need to be quick with the documentation or you will not have enough time to complete all the questions.
 
-NOTE: Some mac users tend to change their key bindings so cmd matches ctrl so it is easier to copy paste, for me my custom keybindings did not work in the exam so i had to use the default. This is another reason why killercoda is important. 
+NOTE: Some mac users tend to change their key bindings so cmd matches ctrl so it is easier to copy paste, for me my custom keybindings did not work in the exam so i had to use the default. This is another reason why killershell is important. 
 Ctrl+shift+c/v to copy paste as linux does not have command. 
 
 #### CKA Study Materials [FREE]
+
+I personally think it is possible to prep for CKA with free online materials, of course having a powerful system which can host multiple virtual machines will give more room for experimentation, but if you don't then the killer coda free tier exam simulator is really helpful. They also have a section with many CKA scenarios which are really helpful.
+
+Another really helpful resource to learn revise and practice at a short span of time is https://david-vtuk.github.io/CKA-StudyGuide/ 
+
+Doing killer coda scenarios, all the questions in the above link and the two free killershell exams THOROUGHLY would be enough prep for your CKA exam.
+
+There are a lot of CKA queations which are similar and often repeated like
+1. Kubeadm Install or upgrade or add a node
+2. ETCD backup and restore
+3. Failure with kubelet you need to debug
+4. creating pv/pvc
+5. create a network policy
+6. RBAC
+7. schedule pods
+8. scale pods
+9. configure a service
+10. getting logs or resource usage
 
 #### CKA Study Materials [PAID]
 
